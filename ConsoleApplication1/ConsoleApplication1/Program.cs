@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-
+//wtf
 namespace ConsoleApplication1
 {
     class Program
